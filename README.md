@@ -101,24 +101,40 @@ The scores were then combined to classify customers into business-friendly segme
 
 # 📊 Visualizations
 
-The notebook includes several visualizations to understand customer behavior.
+Correlation Heatmap
+![Correlation Heatmap](screenshots/correlation_heat_map.png)
 
-### Customer Distribution by Segment
+Shows relationships between RFM metrics and their corresponding scores.
 
-Shows the number of customers in each RFM category.
+Customer Distribution by Segment
+![Customer Distribution](screenshots/customer_distribution_rfm.png)
 
----
+Displays how customers are distributed across RFM segments.
 
-### Revenue Contribution by Segment
+Customer Spending Distribution
+![Customer Spending](screenshots/customer_spending_by_segment.png)
 
-Illustrates which customer groups contribute the highest revenue.
+Compares customer spending patterns across segments using a box plot.
 
----
+Frequency vs Monetary Analysis
+![Frequency vs Monetary](screenshots/frequency_monetary_scatter.png)
 
-### Recency vs Monetary Scatter Plot
+Illustrates how purchase frequency relates to customer spending.
 
-Visualizes customer spending behavior based on purchase recency.
+Recency vs Monetary Analysis
+![Recency vs Monetary](screenshots/recency_monetary_scatter.png)
 
+Highlights purchasing behavior based on spending and recent activity.
+
+Revenue by Customer Segment
+![Revenue by Segment](screenshots/revenue_by_customer_segment.png)
+
+Shows which customer groups contribute the most revenue.
+
+Revenue Contribution
+![Revenue Contribution](screenshots/revenue_contribution_by_segments.png)
+
+Visualizes each customer segment's percentage contribution to total revenue.
 ---
 
 # 💡 Key Business Insights
